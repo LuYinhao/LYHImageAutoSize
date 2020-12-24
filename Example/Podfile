@@ -1,0 +1,12 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LYHImageAutoSize_Example' do
+  pod 'LYHImageAutoSize', :path => '../'
+
+  target 'LYHImageAutoSize_Tests' do
+    inherit! :search_paths
+
+  end
+end

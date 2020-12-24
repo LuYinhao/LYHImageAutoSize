@@ -1,0 +1,22 @@
+{
+  "name": "LYHImageAutoSize",
+  "version": "1.0.0",
+  "summary": "A short description of LYHImageAutoSize.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Lucas/LYHImageAutoSize",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lucas": "29539153@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Lucas/LYHImageAutoSize.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYHImageAutoSize/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_LYHImageAutoSize_Tests {
+  umbrella header "Pods-LYHImageAutoSize_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

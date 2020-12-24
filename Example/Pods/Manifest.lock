@@ -1,0 +1,16 @@
+PODS:
+  - LYHImageAutoSize (1.0.0)
+
+DEPENDENCIES:
+  - LYHImageAutoSize (from `../`)
+
+EXTERNAL SOURCES:
+  LYHImageAutoSize:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYHImageAutoSize: a8f60bafddd948efc17ffe5b76fa7ea36e30e51c
+
+PODFILE CHECKSUM: f321d09af1ea84f704d8cf0bb5a90ecb24c5af70
+
+COCOAPODS: 1.10.0.beta.2
